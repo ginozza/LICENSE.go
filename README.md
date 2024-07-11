@@ -6,7 +6,7 @@ Este es un CLI simple desarrollado en Go para generar archivos de licencia para 
 
 A continuación se muestra cómo usar el CLI desde la línea de comandos:
 
-```bash
+```go
 # Instalar dependencias (si es necesario)
 go mod tidy
 
@@ -34,3 +34,6 @@ Si quieres contribuir a este repositorio con nuevas funcionalidades, o mejoras, 
 3. Haz tus cambios y haz commit (git commit -am 'Añadir una mejora').
 4. Sube la rama (git push origin feature/mejora).
 5. Abre un Pull Request.
+
+### Licencia
+📜 Licenciada bajo [MIT](https://github.com/ginozza/LICENSE.go/blob/master/LICENSE) © [ginozza](https://github.com/ginozza).
